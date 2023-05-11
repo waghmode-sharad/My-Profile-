@@ -1,0 +1,27 @@
+body{
+    margin-left: 200px;
+}
+div{
+    margin-left:10px;
+    width: 600px;
+    height: 820px;
+    border-radius: 5px;
+    border-color: black;
+    border-style: solid;
+}
+
+h1{
+    margin-left: 50px;
+    font-size: xx-large;
+}
+img{
+    margin-left: 10px;
+    margin-right: 10px;
+}
+span{
+    margin-left: 10px;
+}
+h3{
+    margin-left: 50px;
+}
+
